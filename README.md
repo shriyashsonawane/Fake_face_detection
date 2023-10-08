@@ -1,1 +1,2 @@
 # Fake_face_detection
+This project aims to develop an efficient fakeface detection system using ConvolutionalNeural Networks (CNN) and the VGG16 model.The system will distinguish between real andmanipulated facial images, addressing thegrowing concern of image and videomanipulation in the digital era. By training on a diverse dataset of real and fakefaces, the CNN and VGG16 model will learnintricate features to accurately classify anddifferentiate between authentic andmanipulated images.
